@@ -1,0 +1,1 @@
+la consola se puede usar para navegar por directorios y crear nuevos de estos mismos, a la ves se puede crear archivos dentro de estos. cd: cambiar de directorio cd ..:para regresar del directorio touch:ara crear un archivo nuevo mkdir: para crear un directorio nuevo ls: para ver que archivos hay en un directorio 

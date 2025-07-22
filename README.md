@@ -1,8 +1,17 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante:  santiago casallas 
+Id.:  000214119
 ---
+En el repositorio esta la descripccion de como navegar por la consola, como crear un repositorio local y remoto en cada una un archivo markdown
+
+los pasos para clonar un proyecto es utilizar el comando "git clone" en la consola y para ejecutarlo abrir los archivos en el visual estudio 
+
+## tabla de contenido 
+[uso de la cnsola](docs/uso_consola.md)
+[repositorio local](docs/repositorio_local.md)
+[repositorio remoto](docs/repositorio_remoto.md)
 # Evaluación
 
 ### **Descripción de la Actividad:**
